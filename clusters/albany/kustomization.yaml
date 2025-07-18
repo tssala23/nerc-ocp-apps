@@ -4,8 +4,6 @@ resources:
 - ../lib/cluster-scope
 - fake-metrics-server
 
-nameSuffix: -obs
-
 patches:
   - target:
       kind: Application
